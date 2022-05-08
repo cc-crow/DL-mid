@@ -1,1 +1,1 @@
-
+你可以通过分别运行faster_rcnn和yolo_v3中的train.py文件来实现相对应的模型
