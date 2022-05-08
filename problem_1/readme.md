@@ -4,6 +4,6 @@ python ERM.py
 
 python CutOut.py
 
-python mixup.py
+python Mixup.py
 
-python cutmix.py
+python Cutmix.py
